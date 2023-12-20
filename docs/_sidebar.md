@@ -8,5 +8,7 @@
     - [Glossary](introduction/terms)
 
 - API References and tutorials
+
     - [Intro](api/api)
-    - [connectivity](api/connectivity)
+    - [Connectivity](api/connectivity)
+
